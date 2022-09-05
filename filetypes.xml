@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="history.js" type="AUTO_DETECTED" />
+      <mapping pattern="aaaa" type="AUTO_DETECTED" />
+      <mapping pattern="dsfsdf" type="AUTO_DETECTED" />
+    </extensionMap>
+  </component>
+</application>
